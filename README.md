@@ -1,3 +1,3 @@
 # first-try
 ##first try with github...nothing particular
-###Então, este é meu primeiro contato com o github e até agora parece ser bem interessante...
+###Nothing interesting here. just another day trying to get to know how to use hub. Hungry for knowledge. cheers.
