@@ -1,2 +1,3 @@
 # first-try
-first try with github...nothing particular
+##first try with github...nothing particular
+###Então, este é meu primeiro contato com o github e até agora parece ser bem interessante...
